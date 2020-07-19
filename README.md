@@ -1,0 +1,2 @@
+# stockTrader
+Stock trader simulator
