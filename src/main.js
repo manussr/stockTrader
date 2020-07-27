@@ -7,8 +7,8 @@ import VueResource from "vue-resource"
 
 Vue.use(VueRouter);
 Vue.use(VueResource);
-
-Vue.http.options.root="https://vue-stock-trader-b110c.firebaseio.com/";
+const your_firebase_url="";
+Vue.http.options.root=your_firebase_url;
 
 
 Vue.filter('currency',(value)=>{
