@@ -1,6 +1,6 @@
 # stockTrader
 Stock trader simulator
-
+Add your own firebase url to main.js to test this app
 # vue-cli
 
 ## Build Setup
